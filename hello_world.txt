@@ -1,1 +1,3 @@
 hello_world_adding_text
+
+console.log("Hello, World!);
